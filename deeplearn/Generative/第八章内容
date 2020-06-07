@@ -1,0 +1,7 @@
+本章内容
+
+1. Text generation with LSTM -- 使用LSTM生成文本
+2. Deep Dreams  -- 实现DeepDreams
+3. Neural style transfer  -- 实现神经风格迁移
+4. Viriational Autoencoders -- 变分自编码器
+5. Adversarial Networks  -- 生成式对抗网络
